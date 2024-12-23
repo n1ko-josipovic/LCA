@@ -1,1 +1,1 @@
-# local.chat
+# Local Chat App (LCA)
